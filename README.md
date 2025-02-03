@@ -16,7 +16,7 @@ I have explored various projects, from web apps to system management tools. Whil
 🚀 Stay tuned for exciting developments!
 
 ## 🔗 Connect with Me
-- 🌐 **LinkedIn:** [Charifa Fax](https://www.linkedin.com/in/charifa-fx-12193333b)
+- 🌐 **LinkedIn:** [Charifa Fax](https://www.linkedin.com/in/charifa-fax)
 - 📩 **Email:** c.fax5429@uca.ac.ma | fxcharifa@gmail.com
 - 🛠 **GitHub Stats:**
   ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=charifa2024&show_icons=true&theme=tokyonight)
